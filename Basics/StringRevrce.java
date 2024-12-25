@@ -1,3 +1,4 @@
+package Basics;
 public class StringRevrce {
     public static void main(String[] args) {
         int n =12345;
