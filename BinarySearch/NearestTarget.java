@@ -17,7 +17,7 @@ public class NearestTarget {
         int start = 0;
         int end = arr.length-1;
 
-        while (start< end) {    //the mistake was here forgot to add = therefor it was only give greater then
+        while (start<= end) {    //the mistake was here forgot to add = therefor it was only give greater then
             int mid = start + (end - start)/2;
             if (target < arr[mid]) {
                 end = mid -1;
