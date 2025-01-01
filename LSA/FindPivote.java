@@ -6,14 +6,13 @@ public class FindPivote {
         System.out.println(pivote(arr));
     }
     static int pivote(int[] arr){
-        // int pivote = 0;
-        // for (int i = 0; i < arr.length; i++) {
-        //     if (arr[i] > pivote) {
-        //         pivote = arr[i];
-        //     }
-            
-        // }
-        // return pivote;
+        int pivote = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] > pivote) {
+                pivote = arr[i];
+            }
+        }
+        return pivote;
         
     }
 }
