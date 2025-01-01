@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 // Q : 1295. Find Numbers with Even Number of Digits
 public class evenDigits {
     public static void main(String[] args) {

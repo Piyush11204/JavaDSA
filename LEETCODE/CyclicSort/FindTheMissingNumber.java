@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.CyclicSort;
  // Q : 268. Missing Number
  // Ask in Amazon interview
 public class FindTheMissingNumber {

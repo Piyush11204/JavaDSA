@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 
 public class PeakIndex {
     // Q : 852. Peak Index in a Mountain Array

@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.CyclicSort;
 
 import java.util.ArrayList;
 import java.util.List;

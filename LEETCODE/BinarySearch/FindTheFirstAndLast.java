@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
     // FaceBook
     // Q : 34. Find First and Last Position of Element in Sorted Array
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
     // Q : 33. Search in Rotated Sorted Array
 public class InRotatedArray {
     public static void main(String[] args) {

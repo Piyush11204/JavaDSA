@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.CyclicSort;
 
 // Q : 287. Find the Duplicate Number
 // MicroSoft 

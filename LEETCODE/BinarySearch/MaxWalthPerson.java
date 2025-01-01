@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 // Q : 1672. Richest Customer Wealth
 public class MaxWalthPerson {
     public static void main(String[] args) {

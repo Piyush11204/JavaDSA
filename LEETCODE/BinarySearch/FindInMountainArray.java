@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 // Q : 1095. Find in Mountain Array    -- Done Using GPT
 
 // First find the Peak value using mountain array search like before

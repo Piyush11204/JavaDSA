@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 //  Q : 744. Find Smallest Letter Greater Than Target
 public class FindNearest {
     public static void main(String[] args) {

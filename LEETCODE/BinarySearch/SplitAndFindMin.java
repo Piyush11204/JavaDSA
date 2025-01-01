@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 // Q : 410. Split Array Largest Sum  __ Video (Binary Search Interview Questions - Google, Facebook, Amazon : TIME 3:29:10 )
 public class SplitAndFindMin {
    public static void main(String[] args) {

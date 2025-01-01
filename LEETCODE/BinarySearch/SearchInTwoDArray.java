@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
  // Q : 74. Search a 2D Matrix
 public class SearchInTwoDArray {
     public static void main(String[] args) {

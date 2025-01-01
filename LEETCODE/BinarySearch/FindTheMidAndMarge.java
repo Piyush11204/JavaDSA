@@ -1,4 +1,4 @@
-package LEETCODE;
+package LEETCODE.BinarySearch;
 public class FindTheMidAndMarge {
     // 4. Median of Two Sorted Arrays  --Not Done
     public static void main(String[] args) {
