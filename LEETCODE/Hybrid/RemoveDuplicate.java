@@ -10,6 +10,7 @@ public class RemoveDuplicate {
         System.out.println("k = " + k1);
         System.out.println("nums = " + Arrays.toString(nums1));
 
+
         int[] nums2 = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
         int k2 = removeDuplicates(nums2);
         System.out.println("k = " + k2);
