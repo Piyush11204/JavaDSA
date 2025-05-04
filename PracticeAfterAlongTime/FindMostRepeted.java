@@ -3,6 +3,7 @@ package PracticeAfterAlongTime;
 public class FindMostRepeted {
     public static void main(String[] args) {
         int n = 318515356;
+
         int count = 0;
         while (n > 0) {
             int rem = n % 10;
