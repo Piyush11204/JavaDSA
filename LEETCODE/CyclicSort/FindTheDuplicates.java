@@ -18,6 +18,7 @@ public class FindTheDuplicates {
                     swap(nums, i, currectIndex);  
                 } else {
                     return nums[i];     // If  nums[i] == nums[currectIndex]   then this is the answer
+
                 }
             }else{
                 i++;
