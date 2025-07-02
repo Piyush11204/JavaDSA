@@ -14,8 +14,8 @@ public class FindTheFirstAndLast {
 
     static int[] searchRange(int[] nums, int target, boolean FindStartIndex) {
             int[] ans = {-1,-1};
-            int start = search(nums,target,FindStartIndex=false);
-            int end = search(nums,target,FindStartIndex=true);
+            int start = search(nums,target,FindStartIndex=true);
+            int end = search(nums,target,FindStartIndex=false);
             ans[0] =start;
             ans[1] = end;
 

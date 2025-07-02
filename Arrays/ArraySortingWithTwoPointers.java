@@ -11,7 +11,7 @@ public class ArraySortingWithTwoPointers {
         int start = 0;
         int end = arr.length-1;
 
-        while(start < end){
+        while(start < end){ 
             swap(arr, start ,end);
             start++;
             end--;
